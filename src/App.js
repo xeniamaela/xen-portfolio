@@ -8,6 +8,7 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Card from './components/Card'
 import Jumbotron from './components/Jumbo'
+import Footer from './components/Footer'
 
 // Bootstrap Components
 import { Container, Row, Col } from 'react-bootstrap'
@@ -25,6 +26,7 @@ export default function App(){
 					<Col><Card/></Col>
 				</Row>
 			</Container>
+			<Footer/>
 		</>
 	)
 }
