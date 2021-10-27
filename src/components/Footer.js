@@ -4,7 +4,6 @@ import React from 'react'
 export default function Footer(){
     const footerStyle = {
         'position': 'absolute',
-        'bottom': '0',
         'width': '100%',
         'height': '60px',
         'line-height': '60px',
