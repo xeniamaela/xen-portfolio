@@ -10,7 +10,7 @@ export default function AboutMe(){
             <li>First Name: Xen</li>
             <li>Last Name: Abano</li>
             <li>Age: 21</li>
-            <li>Interest: Art, Music</li>
+            <li>Interest: Art, Music, Food</li>
         </ul>
         </Jumbotron>
     )
